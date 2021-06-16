@@ -38,18 +38,4 @@ You are free to modify my project but make sure you dont forget to give me prope
 Make a pull request if you want to contribute to this project 
 
 
-## Authors
-
-* **Murtaza Piplod** [MASTERGUY](https://github.com/MASTERGUY/)
-
-
-## License
-
-This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* [Icons8](https://icons8.com) (Thanks for awesome icons) 
-* [StackOverflow](https://stackoverflow.com) (Thanks to awesome community developers support)
-
 
